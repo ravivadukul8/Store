@@ -5,6 +5,7 @@ import { useProductContext } from "./context/productcontext";
 function About() {
   const { Thenem } = useProductContext();
   // console.log({ Thenem });
+  // console.log("ABCD")
   const data = {
     name: "Ecommarce",
   };
